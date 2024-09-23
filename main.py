@@ -13,4 +13,9 @@ def print_hi(name):
 if 1<2:
     print("МЫ сдадим лабу ")
 
+while True:
+    print("Мы сдадим лабу")
+    break
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
